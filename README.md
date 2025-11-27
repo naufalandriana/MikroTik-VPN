@@ -23,7 +23,7 @@ Project ini nge-implement comprehensive VPN solution untuk support akses aplikas
                     Internet
                        |
                        |
-        [Head Office - VPN Server]
+        [Head Office - VPN Server] ------> [application]
                        |
           +------------+------------+
           |            |            |
@@ -71,7 +71,5 @@ Project ini nge-implement comprehensive VPN solution untuk support akses aplikas
 ✅ Production ready  
 ✅ Tested dan validated  
 ✅ Actively maintained
-
-## Fun Facts
 
 **Maintained by**: Infrastructure Team
